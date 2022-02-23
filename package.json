@@ -1,10 +1,10 @@
 {
-  "name": "styled-components-lib-example",
+  "name": "lerna-test",
   "version": "1.0.0",
   "description": "Made with create-react-styled-library",
-  "author": "ovidubya",
+  "author": "gumiranda",
   "license": "MIT",
-  "repository": "ovidubya/styled-components-lib-example",
+  "repository": "gumiranda/lerna-test",
   "source": "index.ts",
   "main": "dist/index.js",
   "module": "dist/index.module.js",
