@@ -1,4 +1,4 @@
-# styled-components-lib-example
+# DevDoido Design System
 
 > Made with create-react-styled-library
 
@@ -13,7 +13,7 @@ npm install --save react styled-components
 ## Install
 
 ```bash
-npm install --save styled-components-lib-example
+npm install --save devdoido-ds
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ npm install --save styled-components-lib-example
 ```tsx
 import React from 'react'
 
-import { ThemeProvider, Button } from 'styled-components-lib-example'
+import { ThemeProvider, Button } from 'devdoido-ds'
 
 interface AppProps {}
 
@@ -38,7 +38,7 @@ const App: React.FC<AppProps> = () => {
 
 ## Live Demo
 
-For examples of the styled-components-lib-example in action, checkout the storybook <a href="https://ovidubya.github.io/styled-components-lib-example" target="_blank">here</a>.
+For examples of the styled-components-lib-example in action, checkout the storybook <a href="https://gumiranda.github.io/devdoido-ds" target="_blank">here</a>.
 
 ## Develop
 
@@ -80,15 +80,15 @@ To create a local TAR file to test before publishing, run
 $ npm pack
 ```
 
-This will create a file called `styled-components-lib-example-1.0.0.tgz`
+This will create a file called `devdoido-ds-example-1.0.0.tgz`
 
 You can use this file as a normal package dependency
 by linking in your `npm install`
 
 ```sh
-$ npm i path/to/styled-components-lib-example-1.0.0.tgz
+$ npm i path/to/devdoido-ds-example-1.0.0.tgz
 ```
 
 ## License
 
-MIT © [ovidubya](https://github.com/ovidubya)
+MIT © [gumiranda](https://github.com/gumiranda)
