@@ -1,10 +1,10 @@
 {
-  "name": "lerna-test",
+  "name": "devdoido-ds",
   "version": "1.0.0",
   "description": "Made with create-react-styled-library",
   "author": "gumiranda",
   "license": "MIT",
-  "repository": "gumiranda/lerna-test",
+  "repository": "gumiranda/devdoido-ds",
   "source": "index.ts",
   "main": "dist/index.js",
   "module": "dist/index.module.js",
